@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CycloneDDS>
+  <Domain id='any'>
+    <General>
+      <AllowMulticast>false</AllowMulticast>
+    </General>
+    <Discovery>
+      <ParticipantIndex>auto</ParticipantIndex>
+      <MaxAutoParticipantIndex>99</MaxAutoParticipantIndex>
+      <Peers>
+        <Peer address='192.168.0.47'/>
+        <Peer address='192.168.0.184'/>
+      </Peers>
+    </Discovery>
+  </Domain>
+</CycloneDDS>
