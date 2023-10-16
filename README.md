@@ -86,3 +86,13 @@ See run ROS2 instructions above
 export cdds_x86.xml
 # launch your nodes via ROS2 launch files
 ```
+
+##  Acknowledgement
+This project has received funding from the ECSEL Joint Undertaking (JU) under grant agreement No 877056. The JU receives support from the European Union’s Horizon 2020 research and innovation programme and Spain, Italy, Austria, Germany, France, Finland, Switzerland”. In Austria the project was also funded by the program “IKT der Zukunft” of the Austrian Federal Ministry for Climate Action (BMK).
+
+![FRACTAL Logo](images/fractal.png?raw=true)
+
+![EU Logo](images/eu.png?raw=true)
+![KDT Logo](images/kdt.png?raw=true)   
+
+![FFG Banner](images/ffg.png?raw=true)    
